@@ -1,0 +1,7 @@
+{
+  "name": "Inès - Mostafa's Assistant",
+  "description": "A bilingual conversational AI assistant for Mostafa Karimi, powered by Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
